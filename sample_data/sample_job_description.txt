@@ -1,0 +1,7 @@
+Software Engineer Intern
+
+Required skills:
+JavaScript, React, Node.js, SQL, REST APIs, Python, Git, problem solving, data structures and algorithms.
+
+Good to have:
+AWS, Docker, Machine Learning, NLP, LangChain.
